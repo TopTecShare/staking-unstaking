@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+These are your Discord backup codes 
+for account kevin.arimaa@gmail.com.  Keep them safe!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* 2qwp-imab 
+* 4ply-yt39 
+* fvgl-e56y 
+* f1aj-d1iz 
+* hnn0-e5ry 
+* c039-8g4g 
+* teod-17jh 
+* iwx4-rkg9 
+* 3mz3-qpv1 
+* ikyo-9qnz 
 
-## Available Scripts
+These are your Discord backup codes for account 
+okura.tatsuhiro@gmail.com.  Keep them safe!
+Tech#9999
 
-In the project directory, you can run:
+* ij49-r477 
+* 9qvf-b6dl 
+* mn1i-hax5 
+* 84jg-t53i 
+* glu3-gs7m 
+* ff5w-er7a 
+* a18y-6kqp 
+* dh26-l8xc 
+* dz9q-foma 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+These are your Discord backup codes for account z2liska.91.6309l@gmail.com.  Keep them safe!
 
-### `npm test`
+* jwxh-hhup 
+* kpzo-kz0r 
+* guia-9euo 
+* s39z-9cya 
+* isdz-sq7u 
+* 55v1-zol8 
+* kph8-hxbd 
+* seey-fbr2 
+*  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+These are your Discord backup codes for account kimuraa.hideyo@gmail.com.  Keep them safe!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* wk2o-9mcu 
+* s1oe-fpnx 
+* kn3h-vb18 
+* gozx-pk66 
+* bzjx-ubpc 
+* 38ck-z9xl 
+![image](https://user-images.githubusercontent.com/90750585/167835624-44afa3ba-38f8-4f51-b754-d9b9c9e3ac40.png)
